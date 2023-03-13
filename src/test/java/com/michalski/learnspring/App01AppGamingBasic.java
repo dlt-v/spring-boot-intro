@@ -8,7 +8,7 @@ public class App01AppGamingBasic {
         //var game = new MarioGame();
 //        var game = new ContraGame();
         var game = new PacmanGame();
-        var gameRunner = new GameRunner(game);
+        //var gameRunner = new GameRunner(game);
         gameRunner.run();
     }
 }
